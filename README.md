@@ -6,11 +6,13 @@
 词向量地址 https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz (国内无法下载，可直接搜索百度云下载)
 
 ## 运行说明
+```
 1.下载数据及词向量
 2.运行binTotxt.py转换词向量格式
 3.运行main.py训练模型
 4.运行guiActive.py显示可视化界面
-注：可通过createTest.py选取部分数据进行训练测试，加快训练速度
+```
+注：可通过createTest.py选取部分数据进行训练测试，加快训练速度<br>
 ## 界面展示
 ![image](https://user-images.githubusercontent.com/68805593/230900781-85e11b90-0bc6-4e50-ad46-20d947e9f1f3.png)<br>
 ![image](https://user-images.githubusercontent.com/68805593/230900946-535756be-083e-4b23-bbee-5222728a5c8b.png)<br>
