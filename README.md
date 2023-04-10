@@ -1,0 +1,2 @@
+# AmazonSentimentAnalysis
+基于Bi-LSTM的亚马逊评论情感二分类模型及可视化
